@@ -1,0 +1,9 @@
+  ADDR B1 B2 B3 B4 C:\Users\ASUS\Desktop\lab1\zad1.6.asm            PAGE       1
+
+                                   org $8000
+  8000 CE 01 F0     ldx #$01F0
+  8003 35           txs
+  8004 36           psha
+  8005 36           psha
+  8006 36           psha
+  8007 30           tsx

@@ -1,0 +1,5 @@
+C:\Users\Dima\Desktop\ИСП\laba5\Serializer\obj\Debug\netcoreapp3.1\Serializer.csproj.AssemblyReference.cache
+C:\Users\Dima\Desktop\ИСП\laba5\Serializer\obj\Debug\netcoreapp3.1\Serializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\ИСП\laba5\Serializer\obj\Debug\netcoreapp3.1\Serializer.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\ИСП\laba5\Serializer\obj\Debug\netcoreapp3.1\Serializer.AssemblyInfo.cs
+C:\Users\Dima\Desktop\ИСП\laba5\Serializer\obj\Debug\netcoreapp3.1\Serializer.csproj.CoreCompileInputs.cache

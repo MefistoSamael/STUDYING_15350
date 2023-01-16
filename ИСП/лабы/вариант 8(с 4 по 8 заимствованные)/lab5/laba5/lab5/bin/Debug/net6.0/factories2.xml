@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayFactory>
+  <Factory>
+    <Name>Pup1</Name>
+    <Storages>
+      <Storage>
+        <Name>Lup1InPup1</Name>
+        <Address>Minsk, Levkova 12</Address>
+        <Roominess>255</Roominess>
+      </Storage>
+      <Storage>
+        <Name>Lup2InPup1</Name>
+        <Address>Brest, Sonic 35</Address>
+        <Roominess>229</Roominess>
+      </Storage>
+      <Storage>
+        <Name>Lup3InPup1</Name>
+        <Address>Mogilev, Pony 9</Address>
+        <Roominess>301</Roominess>
+      </Storage>
+    </Storages>
+  </Factory>
+  <Factory>
+    <Name>Pup2</Name>
+    <Storages>
+      <Storage>
+        <Name>Lup1InPup2</Name>
+        <Address>Sho, Centr 3</Address>
+        <Roominess>90</Roominess>
+      </Storage>
+      <Storage>
+        <Name>Lup2InPup2</Name>
+        <Address>Minsk, Gikalo 11</Address>
+        <Roominess>350</Roominess>
+      </Storage>
+    </Storages>
+  </Factory>
+</ArrayFactory>

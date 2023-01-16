@@ -1,0 +1,38 @@
+  ADDR B1 B2 B3 B4 thrass11.tmp                                     PAGE       1
+
+                    org $0500
+  0500 86 20        ldaa #32
+  0502 97 50        staa $0050
+                    ;     ( 32 )
+
+  0504 86 FB        ldaa #%11111011
+  0506 B7 82 01     staa $8201
+
+                    ;
+  0509 CE 82 00     ldx #$8200
+                    ;
+  050C 18 CE 00 00  ldy #$0000
+
+                   cycle
+  0510 A6 00        ldaa 0,x ;
+  0512 84 04        anda #%00000100 ;   3
+  0514 27 0B        beq copy ;
+  0516 08           inx ;
+  0517 18 08        iny ;
+  0519 7A 00 50     dec $0050 ;
+  051C 26 F2        bne cycle
+
+  051E 7E 05 29     jmp $0529
+
+
+                   copy
+  0521 A6 00        ldaa 0,x
+  0523 18 A7 00     staa 0,y
+  0526 7E 05 16     jmp $0516
+
+  0529 86 00        ldaa #0
+
+  Symbol Table 
+
+  CYCLE              0510
+  COPY               0521

@@ -1,0 +1,33 @@
+  ADDR B1 B2 B3 B4 C:\Users\ASUS\Desktop\lab1\zad1.5.asm            PAGE       1
+
+                                   org $8000
+
+                    ;1
+  8000 CC FF FF     ldd #$ffff
+  8003 CE 00 00     ldx #$0000
+  8006 18 CE 11 11  ldy #$1111
+
+  800A 8F           xgdx
+  800B 18 8F        xgdy
+  800D 8F           xgdx
+                   ;--------------------------------
+
+                    ;2
+  800E CE 22 22     ldx #$2222
+  8011 18 CE 33 33  ldy #$3333
+
+  8015 FF 82 01     stx $8201
+  8018 18 FF 82 03  sty $8203
+  801C FE 82 03     ldx $8203
+  801F 18 FE 82 01  ldy $8201
+                   ;--------------------------------
+
+                    ;3
+  8023 CE 44 44     ldx #$4444
+  8026 18 CE 55 55  ldy #$5555
+
+  802A 3C           pshx
+  802B 18 3C        pshy
+  802D 38           pulx
+  802E 18 38        puly
+

@@ -1,0 +1,7 @@
+  ADDR B1 B2 B3 B4 C:\Users\User\Desktop\ASSembler\lab1\zad1.2.asm  PAGE       1
+
+                                   org $8000
+
+
+  8000 86 10        ldaa #$10
+  8002 17           TBA

@@ -1,0 +1,15 @@
+  ADDR B1 B2 B3 B4 C:\Users\ASUS\Desktop\lab1\zad1.10.asm           PAGE       1
+
+                                   org $8000
+
+  8000 18 35        TYS
+  8002 30           TSX
+  8003 8F           xgdx
+  8004 30           TSX
+  8005 16           TAB
+  8006 8F           xgdx
+  8007 17           TBA
+  8008 06           TAP
+  8009 8F           xgdx
+  800A 07           TPA
+  800B 18 8F        xgdy

@@ -1,0 +1,15 @@
+D:\УНИК\прога\исп\laba5\Serializer\bin\Debug\net5.0\Serializer.deps.json
+D:\УНИК\прога\исп\laba5\Serializer\bin\Debug\net5.0\Serializer.dll
+D:\УНИК\прога\исп\laba5\Serializer\bin\Debug\net5.0\ref\Serializer.dll
+D:\УНИК\прога\исп\laba5\Serializer\bin\Debug\net5.0\Serializer.pdb
+D:\УНИК\прога\исп\laba5\Serializer\bin\Debug\net5.0\laba5.Domain.dll
+D:\УНИК\прога\исп\laba5\Serializer\bin\Debug\net5.0\laba5.Domain.pdb
+D:\УНИК\прога\исп\laba5\Serializer\obj\Debug\net5.0\Serializer.csproj.AssemblyReference.cache
+D:\УНИК\прога\исп\laba5\Serializer\obj\Debug\net5.0\Serializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИК\прога\исп\laba5\Serializer\obj\Debug\net5.0\Serializer.AssemblyInfoInputs.cache
+D:\УНИК\прога\исп\laba5\Serializer\obj\Debug\net5.0\Serializer.AssemblyInfo.cs
+D:\УНИК\прога\исп\laba5\Serializer\obj\Debug\net5.0\Serializer.csproj.CoreCompileInputs.cache
+D:\УНИК\прога\исп\laba5\Serializer\obj\Debug\net5.0\Serializer.csproj.CopyComplete
+D:\УНИК\прога\исп\laba5\Serializer\obj\Debug\net5.0\Serializer.dll
+D:\УНИК\прога\исп\laba5\Serializer\obj\Debug\net5.0\ref\Serializer.dll
+D:\УНИК\прога\исп\laba5\Serializer\obj\Debug\net5.0\Serializer.pdb

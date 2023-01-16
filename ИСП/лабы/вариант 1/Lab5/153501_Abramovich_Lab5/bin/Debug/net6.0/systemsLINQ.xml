@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHeatingSystems>
+  <HeatingSystem>
+    <House>
+      <Adress>
+        <Town>Minsk</Town>
+        <Street>levkova</Street>
+        <Number>5</Number>
+      </Adress>
+      <Square>32</Square>
+    </House>
+    <House>
+      <Adress>
+        <Town>Minsk</Town>
+        <Street>krasivaya</Street>
+        <Number>9</Number>
+      </Adress>
+      <Square>26</Square>
+    </House>
+    <Town>Minsk</Town>
+    <PricePerSquareMeter>100</PricePerSquareMeter>
+  </HeatingSystem>
+  <HeatingSystem>
+    <House>
+      <Adress>
+        <Town>Mogiliov</Town>
+        <Street>sinaya</Street>
+        <Number>48</Number>
+      </Adress>
+      <Square>83</Square>
+    </House>
+    <House>
+      <Adress>
+        <Town>Mogiliov</Town>
+        <Street>velikaya</Street>
+        <Number>1</Number>
+      </Adress>
+      <Square>40</Square>
+    </House>
+    <Town>Mogiliov</Town>
+    <PricePerSquareMeter>90</PricePerSquareMeter>
+  </HeatingSystem>
+</ArrayOfHeatingSystems>

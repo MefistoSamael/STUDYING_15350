@@ -1,0 +1,5 @@
+C:\Users\Dima\Desktop\ИСП\laba5\lab5\obj\Debug\netcoreapp3.1\lab5.csproj.AssemblyReference.cache
+C:\Users\Dima\Desktop\ИСП\laba5\lab5\obj\Debug\netcoreapp3.1\lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\ИСП\laba5\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\ИСП\laba5\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfo.cs
+C:\Users\Dima\Desktop\ИСП\laba5\lab5\obj\Debug\netcoreapp3.1\lab5.csproj.CoreCompileInputs.cache

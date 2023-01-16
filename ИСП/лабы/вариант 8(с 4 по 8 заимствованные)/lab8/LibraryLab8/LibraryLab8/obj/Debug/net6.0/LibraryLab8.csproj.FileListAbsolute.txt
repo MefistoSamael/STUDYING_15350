@@ -1,0 +1,24 @@
+C:\Users\Dima\Desktop\ИСП\laba8\LibraryLab8\bin\Debug\net6.0\LibraryLab8.deps.json
+C:\Users\Dima\Desktop\ИСП\laba8\LibraryLab8\bin\Debug\net6.0\LibraryLab8.dll
+C:\Users\Dima\Desktop\ИСП\laba8\LibraryLab8\bin\Debug\net6.0\LibraryLab8.pdb
+C:\Users\Dima\Desktop\ИСП\laba8\LibraryLab8\obj\Debug\net6.0\LibraryLab8.csproj.AssemblyReference.cache
+C:\Users\Dima\Desktop\ИСП\laba8\LibraryLab8\obj\Debug\net6.0\LibraryLab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\ИСП\laba8\LibraryLab8\obj\Debug\net6.0\LibraryLab8.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\ИСП\laba8\LibraryLab8\obj\Debug\net6.0\LibraryLab8.AssemblyInfo.cs
+C:\Users\Dima\Desktop\ИСП\laba8\LibraryLab8\obj\Debug\net6.0\LibraryLab8.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\ИСП\laba8\LibraryLab8\obj\Debug\net6.0\LibraryLab8.dll
+C:\Users\Dima\Desktop\ИСП\laba8\LibraryLab8\obj\Debug\net6.0\refint\LibraryLab8.dll
+C:\Users\Dima\Desktop\ИСП\laba8\LibraryLab8\obj\Debug\net6.0\LibraryLab8.pdb
+C:\Users\Dima\Desktop\ИСП\laba8\LibraryLab8\obj\Debug\net6.0\ref\LibraryLab8.dll
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\LibraryLab8\bin\Debug\net6.0\LibraryLab8.deps.json
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\LibraryLab8\bin\Debug\net6.0\LibraryLab8.dll
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\LibraryLab8\bin\Debug\net6.0\LibraryLab8.pdb
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\LibraryLab8\obj\Debug\net6.0\LibraryLab8.csproj.AssemblyReference.cache
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\LibraryLab8\obj\Debug\net6.0\LibraryLab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\LibraryLab8\obj\Debug\net6.0\LibraryLab8.AssemblyInfoInputs.cache
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\LibraryLab8\obj\Debug\net6.0\LibraryLab8.AssemblyInfo.cs
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\LibraryLab8\obj\Debug\net6.0\LibraryLab8.csproj.CoreCompileInputs.cache
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\LibraryLab8\obj\Debug\net6.0\LibraryLab8.dll
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\LibraryLab8\obj\Debug\net6.0\refint\LibraryLab8.dll
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\LibraryLab8\obj\Debug\net6.0\LibraryLab8.pdb
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\LibraryLab8\obj\Debug\net6.0\ref\LibraryLab8.dll

@@ -1,0 +1,12 @@
+C:\Шарпы каникулы\153501_Abramovich_Lab7\Integrals\bin\Debug\net6.0\MyMaths.deps.json
+C:\Шарпы каникулы\153501_Abramovich_Lab7\Integrals\bin\Debug\net6.0\MyMaths.dll
+C:\Шарпы каникулы\153501_Abramovich_Lab7\Integrals\bin\Debug\net6.0\MyMaths.pdb
+C:\Шарпы каникулы\153501_Abramovich_Lab7\Integrals\obj\Debug\net6.0\MyMaths.csproj.AssemblyReference.cache
+C:\Шарпы каникулы\153501_Abramovich_Lab7\Integrals\obj\Debug\net6.0\MyMaths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Шарпы каникулы\153501_Abramovich_Lab7\Integrals\obj\Debug\net6.0\MyMaths.AssemblyInfoInputs.cache
+C:\Шарпы каникулы\153501_Abramovich_Lab7\Integrals\obj\Debug\net6.0\MyMaths.AssemblyInfo.cs
+C:\Шарпы каникулы\153501_Abramovich_Lab7\Integrals\obj\Debug\net6.0\MyMaths.csproj.CoreCompileInputs.cache
+C:\Шарпы каникулы\153501_Abramovich_Lab7\Integrals\obj\Debug\net6.0\MyMaths.dll
+C:\Шарпы каникулы\153501_Abramovich_Lab7\Integrals\obj\Debug\net6.0\refint\MyMaths.dll
+C:\Шарпы каникулы\153501_Abramovich_Lab7\Integrals\obj\Debug\net6.0\MyMaths.pdb
+C:\Шарпы каникулы\153501_Abramovich_Lab7\Integrals\obj\Debug\net6.0\ref\MyMaths.dll

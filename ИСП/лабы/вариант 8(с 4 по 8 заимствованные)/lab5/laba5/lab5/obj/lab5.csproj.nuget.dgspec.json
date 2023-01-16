@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\!учеба\\ИСП\\laba5\\laba5\\lab5\\lab5.csproj": {}
+  },
+  "projects": {
+    "E:\\!учеба\\ИСП\\laba5\\laba5\\lab5.Domain\\lab5.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\!учеба\\ИСП\\laba5\\laba5\\lab5.Domain\\lab5.Domain.csproj",
+        "projectName": "lab5.Domain",
+        "projectPath": "E:\\!учеба\\ИСП\\laba5\\laba5\\lab5.Domain\\lab5.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\!учеба\\ИСП\\laba5\\laba5\\lab5.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\!учеба\\ИСП\\laba5\\laba5\\lab5\\lab5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\!учеба\\ИСП\\laba5\\laba5\\lab5\\lab5.csproj",
+        "projectName": "lab5",
+        "projectPath": "E:\\!учеба\\ИСП\\laba5\\laba5\\lab5\\lab5.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\!учеба\\ИСП\\laba5\\laba5\\lab5\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\!учеба\\ИСП\\laba5\\laba5\\lab5.Domain\\lab5.Domain.csproj": {
+                "projectPath": "E:\\!учеба\\ИСП\\laba5\\laba5\\lab5.Domain\\lab5.Domain.csproj"
+              },
+              "E:\\!учеба\\ИСП\\laba5\\laba5\\Serializer\\Serializer.csproj": {
+                "projectPath": "E:\\!учеба\\ИСП\\laba5\\laba5\\Serializer\\Serializer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\!учеба\\ИСП\\laba5\\laba5\\Serializer\\Serializer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\!учеба\\ИСП\\laba5\\laba5\\Serializer\\Serializer.csproj",
+        "projectName": "Serializer",
+        "projectPath": "E:\\!учеба\\ИСП\\laba5\\laba5\\Serializer\\Serializer.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\!учеба\\ИСП\\laba5\\laba5\\Serializer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\!учеба\\ИСП\\laba5\\laba5\\lab5.Domain\\lab5.Domain.csproj": {
+                "projectPath": "E:\\!учеба\\ИСП\\laba5\\laba5\\lab5.Domain\\lab5.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

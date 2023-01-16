@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E7Esp2EKNqJC6WccQXHpFrDUEpKqS7bHHHlmVrcvlna7a7fMPwR1wv5cz0VzZqKA+2otM8cXafFOxXkFKx3arQ==",
+  "success": true,
+  "projectFilePath": "D:\\УНИК\\прога\\исп\\laba6\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alina\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

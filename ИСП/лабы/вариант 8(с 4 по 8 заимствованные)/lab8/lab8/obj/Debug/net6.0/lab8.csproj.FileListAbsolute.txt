@@ -1,0 +1,36 @@
+C:\Users\Dima\Desktop\ИСП\laba8\lab8\bin\Debug\net6.0\lab8.exe
+C:\Users\Dima\Desktop\ИСП\laba8\lab8\bin\Debug\net6.0\lab8.deps.json
+C:\Users\Dima\Desktop\ИСП\laba8\lab8\bin\Debug\net6.0\lab8.runtimeconfig.json
+C:\Users\Dima\Desktop\ИСП\laba8\lab8\bin\Debug\net6.0\lab8.dll
+C:\Users\Dima\Desktop\ИСП\laba8\lab8\bin\Debug\net6.0\lab8.pdb
+C:\Users\Dima\Desktop\ИСП\laba8\lab8\obj\Debug\net6.0\lab8.csproj.AssemblyReference.cache
+C:\Users\Dima\Desktop\ИСП\laba8\lab8\obj\Debug\net6.0\lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\ИСП\laba8\lab8\obj\Debug\net6.0\lab8.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\ИСП\laba8\lab8\obj\Debug\net6.0\lab8.AssemblyInfo.cs
+C:\Users\Dima\Desktop\ИСП\laba8\lab8\obj\Debug\net6.0\lab8.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\ИСП\laba8\lab8\obj\Debug\net6.0\lab8.dll
+C:\Users\Dima\Desktop\ИСП\laba8\lab8\obj\Debug\net6.0\refint\lab8.dll
+C:\Users\Dima\Desktop\ИСП\laba8\lab8\obj\Debug\net6.0\lab8.pdb
+C:\Users\Dima\Desktop\ИСП\laba8\lab8\obj\Debug\net6.0\lab8.genruntimeconfig.cache
+C:\Users\Dima\Desktop\ИСП\laba8\lab8\obj\Debug\net6.0\ref\lab8.dll
+C:\Users\Dima\Desktop\ИСП\laba8\lab8\bin\Debug\net6.0\LibraryLab8.dll
+C:\Users\Dima\Desktop\ИСП\laba8\lab8\bin\Debug\net6.0\LibraryLab8.pdb
+C:\Users\Dima\Desktop\ИСП\laba8\lab8\obj\Debug\net6.0\lab8.csproj.CopyComplete
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\lab8\bin\Debug\net6.0\lab8.exe
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\lab8\bin\Debug\net6.0\lab8.deps.json
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\lab8\bin\Debug\net6.0\lab8.runtimeconfig.json
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\lab8\bin\Debug\net6.0\lab8.dll
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\lab8\bin\Debug\net6.0\lab8.pdb
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\lab8\bin\Debug\net6.0\LibraryLab8.dll
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\lab8\bin\Debug\net6.0\LibraryLab8.pdb
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\lab8\obj\Debug\net6.0\lab8.csproj.AssemblyReference.cache
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\lab8\obj\Debug\net6.0\lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\lab8\obj\Debug\net6.0\lab8.AssemblyInfoInputs.cache
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\lab8\obj\Debug\net6.0\lab8.AssemblyInfo.cs
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\lab8\obj\Debug\net6.0\lab8.csproj.CoreCompileInputs.cache
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\lab8\obj\Debug\net6.0\lab8.csproj.CopyComplete
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\lab8\obj\Debug\net6.0\lab8.dll
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\lab8\obj\Debug\net6.0\refint\lab8.dll
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\lab8\obj\Debug\net6.0\lab8.pdb
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\lab8\obj\Debug\net6.0\lab8.genruntimeconfig.cache
+C:\Users\kosac\OneDrive\Рабочий стол\ИСП\Laba8\lab8\obj\Debug\net6.0\ref\lab8.dll

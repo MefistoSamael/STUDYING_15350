@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "49jTtRCMpHW8S8S+330nb8zwVo88ZgvB7TFCIGd6bHQHqlD5L/MhPJBN8OvVWPPlF+KJdqKCcOpXMzAQNaV1Nw==",
+  "success": true,
+  "projectFilePath": "D:\\УНИК\\прога\\исп\\laba5\\Serializer\\Serializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alina\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

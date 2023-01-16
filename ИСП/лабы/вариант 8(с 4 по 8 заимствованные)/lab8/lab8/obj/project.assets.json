@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "LibraryLab8/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/LibraryLab8.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryLab8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryLab8/1.0.0": {
+      "type": "project",
+      "path": "../../LibraryLab8/LibraryLab8/LibraryLab8.csproj",
+      "msbuildProject": "../../LibraryLab8/LibraryLab8/LibraryLab8.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "E:\\!studying\\ИСП\\lab8\\LibraryLab8\\LibraryLab8.csproj",
+      "LibraryLab8 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\!studying\\ИСП\\lab8\\lab8\\lab8.csproj",
+      "projectName": "lab8",
+      "projectPath": "E:\\!studying\\ИСП\\lab8\\lab8\\lab8.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "E:\\!studying\\ИСП\\lab8\\lab8\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "E:\\!studying\\ИСП\\lab8\\LibraryLab8\\LibraryLab8.csproj": {
+              "projectPath": "E:\\!studying\\ИСП\\lab8\\LibraryLab8\\LibraryLab8.csproj"
+            },
+            "E:\\!studying\\ИСП\\LibraryLab8\\LibraryLab8\\LibraryLab8.csproj": {
+              "projectPath": "E:\\!studying\\ИСП\\LibraryLab8\\LibraryLab8\\LibraryLab8.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"E:\\!studying\\ИСП\\lab8\\LibraryLab8\\LibraryLab8.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "E:\\!studying\\ИСП\\lab8\\LibraryLab8\\LibraryLab8.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

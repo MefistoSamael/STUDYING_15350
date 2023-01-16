@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jL4u1IHTeOJ44RINOM/ZYETemK6Hfx1dn5tI/MykBeLCnybf2MDjA0KvXna9IamZONgOixfEmEX+Q462po1GHw==",
+  "success": true,
+  "projectFilePath": "C:\\Шарпы каникулы\\153501_Abramovich_Lab5\\153501_Abramovich_Lab5\\153501_Abramovich_Lab5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

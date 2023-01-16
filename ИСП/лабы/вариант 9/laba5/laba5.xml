@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfComputer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Computer>
+    <monitor>
+      <Name>Monitor1</Name>
+    </monitor>
+  </Computer>
+  <Computer>
+    <monitor>
+      <Name>Monitor2</Name>
+    </monitor>
+  </Computer>
+  <Computer>
+    <monitor>
+      <Name>Monitor3</Name>
+    </monitor>
+  </Computer>
+  <Computer>
+    <monitor>
+      <Name>Monitor4</Name>
+    </monitor>
+  </Computer>
+  <Computer>
+    <monitor>
+      <Name>Monitor5</Name>
+    </monitor>
+  </Computer>
+  <Computer>
+    <monitor>
+      <Name>Monitor6</Name>
+    </monitor>
+  </Computer>
+</ArrayOfComputer>

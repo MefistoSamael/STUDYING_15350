@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfComputer>
+  <Computer>
+    <monitor>
+      <Name>Monitor1</Name>
+    </monitor>
+  </Computer>
+  <Computer>
+    <monitor>
+      <Name>Monitor2</Name>
+    </monitor>
+  </Computer>
+  <Computer>
+    <monitor>
+      <Name>Monitor3</Name>
+    </monitor>
+  </Computer>
+  <Computer>
+    <monitor>
+      <Name>Monitor4</Name>
+    </monitor>
+  </Computer>
+  <Computer>
+    <monitor>
+      <Name>Monitor5</Name>
+    </monitor>
+  </Computer>
+  <Computer>
+    <monitor>
+      <Name>Monitor6</Name>
+    </monitor>
+  </Computer>
+</ArrayOfComputer>

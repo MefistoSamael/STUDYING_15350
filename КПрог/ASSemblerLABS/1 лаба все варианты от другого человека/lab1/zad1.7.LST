@@ -1,0 +1,16 @@
+  ADDR B1 B2 B3 B4 C:\Users\ASUS\Desktop\lab1\zad1.7.asm            PAGE       1
+
+                                   org $8000
+
+
+  8000 CE 22 33     ldx #$2233
+  8003 86 11        ldaa #$11
+
+
+  8005 3C           pshx
+  8006 36           psha
+  8007 8F           xgdx
+  8008 33           pulb
+  8009 8F           xgdx
+  800A 32           pula
+  800B 32           pula

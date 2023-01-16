@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "yxo8N1m2CmPJ7nW3PRRhTyn0MVemmnYD/eY68MaDEaqEeV3y3DVlx+NLTxuu3+oMKiGD1QI+yXr0UvuFmRgevw==",
+  "success": false,
+  "projectFilePath": "E:\\!studying\\ИСП\\lab8\\lab8\\lab8.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"E:\\!studying\\ИСП\\lab8\\LibraryLab8\\LibraryLab8.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "E:\\!studying\\ИСП\\lab8\\LibraryLab8\\LibraryLab8.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

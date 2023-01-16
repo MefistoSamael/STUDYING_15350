@@ -1,0 +1,37 @@
+[
+  {
+    "Storages": [
+      {
+        "Name": "Lup1InPup1",
+        "Address": "Minsk, Levkova 12",
+        "Roominess": 255
+      },
+      {
+        "Name": "Lup2InPup1",
+        "Address": "Brest, Sonic 35",
+        "Roominess": 229
+      },
+      {
+        "Name": "Lup3InPup1",
+        "Address": "Mogilev, Pony 9",
+        "Roominess": 301
+      }
+    ],
+    "Name": "Pup1"
+  },
+  {
+    "Storages": [
+      {
+        "Name": "Lup1InPup2",
+        "Address": "Sho, Centr 3",
+        "Roominess": 90
+      },
+      {
+        "Name": "Lup2InPup2",
+        "Address": "Minsk, Gikalo 11",
+        "Roominess": 350
+      }
+    ],
+    "Name": "Pup2"
+  }
+]

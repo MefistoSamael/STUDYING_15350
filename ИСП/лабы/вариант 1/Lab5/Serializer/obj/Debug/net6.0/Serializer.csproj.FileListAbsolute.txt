@@ -1,0 +1,15 @@
+C:\Шарпы каникулы\153501_Abramovich_Lab5\Serializer\bin\Debug\net6.0\Serializer.deps.json
+C:\Шарпы каникулы\153501_Abramovich_Lab5\Serializer\bin\Debug\net6.0\Serializer.dll
+C:\Шарпы каникулы\153501_Abramovich_Lab5\Serializer\bin\Debug\net6.0\Serializer.pdb
+C:\Шарпы каникулы\153501_Abramovich_Lab5\Serializer\obj\Debug\net6.0\Serializer.csproj.AssemblyReference.cache
+C:\Шарпы каникулы\153501_Abramovich_Lab5\Serializer\obj\Debug\net6.0\Serializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Шарпы каникулы\153501_Abramovich_Lab5\Serializer\obj\Debug\net6.0\Serializer.AssemblyInfoInputs.cache
+C:\Шарпы каникулы\153501_Abramovich_Lab5\Serializer\obj\Debug\net6.0\Serializer.AssemblyInfo.cs
+C:\Шарпы каникулы\153501_Abramovich_Lab5\Serializer\obj\Debug\net6.0\Serializer.csproj.CoreCompileInputs.cache
+C:\Шарпы каникулы\153501_Abramovich_Lab5\Serializer\obj\Debug\net6.0\Serializer.dll
+C:\Шарпы каникулы\153501_Abramovich_Lab5\Serializer\obj\Debug\net6.0\refint\Serializer.dll
+C:\Шарпы каникулы\153501_Abramovich_Lab5\Serializer\obj\Debug\net6.0\Serializer.pdb
+C:\Шарпы каникулы\153501_Abramovich_Lab5\Serializer\obj\Debug\net6.0\ref\Serializer.dll
+C:\Шарпы каникулы\153501_Abramovich_Lab5\Serializer\bin\Debug\net6.0\153501_Abramovich_Lab5.Domain.dll
+C:\Шарпы каникулы\153501_Abramovich_Lab5\Serializer\bin\Debug\net6.0\153501_Abramovich_Lab5.Domain.pdb
+C:\Шарпы каникулы\153501_Abramovich_Lab5\Serializer\obj\Debug\net6.0\Serializer.csproj.CopyComplete

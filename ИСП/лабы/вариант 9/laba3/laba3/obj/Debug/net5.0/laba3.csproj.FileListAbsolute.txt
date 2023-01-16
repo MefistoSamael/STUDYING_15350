@@ -1,0 +1,16 @@
+D:\УНИК\прога\исп\laba3\laba3\bin\Debug\net5.0\laba3.exe
+D:\УНИК\прога\исп\laba3\laba3\bin\Debug\net5.0\laba3.deps.json
+D:\УНИК\прога\исп\laba3\laba3\bin\Debug\net5.0\laba3.runtimeconfig.json
+D:\УНИК\прога\исп\laba3\laba3\bin\Debug\net5.0\laba3.runtimeconfig.dev.json
+D:\УНИК\прога\исп\laba3\laba3\bin\Debug\net5.0\laba3.dll
+D:\УНИК\прога\исп\laba3\laba3\bin\Debug\net5.0\ref\laba3.dll
+D:\УНИК\прога\исп\laba3\laba3\bin\Debug\net5.0\laba3.pdb
+D:\УНИК\прога\исп\laba3\laba3\obj\Debug\net5.0\laba3.csproj.AssemblyReference.cache
+D:\УНИК\прога\исп\laba3\laba3\obj\Debug\net5.0\laba3.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИК\прога\исп\laba3\laba3\obj\Debug\net5.0\laba3.AssemblyInfoInputs.cache
+D:\УНИК\прога\исп\laba3\laba3\obj\Debug\net5.0\laba3.AssemblyInfo.cs
+D:\УНИК\прога\исп\laba3\laba3\obj\Debug\net5.0\laba3.csproj.CoreCompileInputs.cache
+D:\УНИК\прога\исп\laba3\laba3\obj\Debug\net5.0\laba3.dll
+D:\УНИК\прога\исп\laba3\laba3\obj\Debug\net5.0\ref\laba3.dll
+D:\УНИК\прога\исп\laba3\laba3\obj\Debug\net5.0\laba3.pdb
+D:\УНИК\прога\исп\laba3\laba3\obj\Debug\net5.0\laba3.genruntimeconfig.cache

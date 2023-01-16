@@ -1,0 +1,15 @@
+C:\Шарпы каникулы\153501_Abramovich_Lab4\FileService\bin\Debug\net6.0\FileService.deps.json
+C:\Шарпы каникулы\153501_Abramovich_Lab4\FileService\bin\Debug\net6.0\FileService.dll
+C:\Шарпы каникулы\153501_Abramovich_Lab4\FileService\bin\Debug\net6.0\FileService.pdb
+C:\Шарпы каникулы\153501_Abramovich_Lab4\FileService\bin\Debug\net6.0\Entities.dll
+C:\Шарпы каникулы\153501_Abramovich_Lab4\FileService\bin\Debug\net6.0\Entities.pdb
+C:\Шарпы каникулы\153501_Abramovich_Lab4\FileService\obj\Debug\net6.0\FileService.csproj.AssemblyReference.cache
+C:\Шарпы каникулы\153501_Abramovich_Lab4\FileService\obj\Debug\net6.0\FileService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Шарпы каникулы\153501_Abramovich_Lab4\FileService\obj\Debug\net6.0\FileService.AssemblyInfoInputs.cache
+C:\Шарпы каникулы\153501_Abramovich_Lab4\FileService\obj\Debug\net6.0\FileService.AssemblyInfo.cs
+C:\Шарпы каникулы\153501_Abramovich_Lab4\FileService\obj\Debug\net6.0\FileService.csproj.CoreCompileInputs.cache
+C:\Шарпы каникулы\153501_Abramovich_Lab4\FileService\obj\Debug\net6.0\FileService.csproj.CopyComplete
+C:\Шарпы каникулы\153501_Abramovich_Lab4\FileService\obj\Debug\net6.0\FileService.dll
+C:\Шарпы каникулы\153501_Abramovich_Lab4\FileService\obj\Debug\net6.0\refint\FileService.dll
+C:\Шарпы каникулы\153501_Abramovich_Lab4\FileService\obj\Debug\net6.0\FileService.pdb
+C:\Шарпы каникулы\153501_Abramovich_Lab4\FileService\obj\Debug\net6.0\ref\FileService.dll

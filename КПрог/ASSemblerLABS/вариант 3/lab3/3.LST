@@ -1,0 +1,14 @@
+  ADDR B1 B2 B3 B4 thrass11.tmp                                     PAGE       1
+
+  C000 CC BD 13     ldd #$bd13
+  C003 CE 63 21     ldx #$6321
+
+  C006 DD 01        std $0001
+  C008 8F           xgdx
+                    ;
+  C009 88 FF        eora #%11111111
+  C00B C8 FF        eorb #%11111111
+
+                    ;
+  C00D 98 01        eora $0001
+  C00F D8 02        eorb $0002

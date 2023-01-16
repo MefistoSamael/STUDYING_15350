@@ -1,0 +1,12 @@
+C:\Шарпы каникулы\153501_Abramovich_Lab5\153501_Abramovich_Lab5.Domain\bin\Debug\net6.0\153501_Abramovich_Lab5.Domain.deps.json
+C:\Шарпы каникулы\153501_Abramovich_Lab5\153501_Abramovich_Lab5.Domain\bin\Debug\net6.0\153501_Abramovich_Lab5.Domain.dll
+C:\Шарпы каникулы\153501_Abramovich_Lab5\153501_Abramovich_Lab5.Domain\bin\Debug\net6.0\153501_Abramovich_Lab5.Domain.pdb
+C:\Шарпы каникулы\153501_Abramovich_Lab5\153501_Abramovich_Lab5.Domain\obj\Debug\net6.0\153501_Abramovich_Lab5.Domain.csproj.AssemblyReference.cache
+C:\Шарпы каникулы\153501_Abramovich_Lab5\153501_Abramovich_Lab5.Domain\obj\Debug\net6.0\153501_Abramovich_Lab5.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Шарпы каникулы\153501_Abramovich_Lab5\153501_Abramovich_Lab5.Domain\obj\Debug\net6.0\153501_Abramovich_Lab5.Domain.AssemblyInfoInputs.cache
+C:\Шарпы каникулы\153501_Abramovich_Lab5\153501_Abramovich_Lab5.Domain\obj\Debug\net6.0\153501_Abramovich_Lab5.Domain.AssemblyInfo.cs
+C:\Шарпы каникулы\153501_Abramovich_Lab5\153501_Abramovich_Lab5.Domain\obj\Debug\net6.0\153501_Abramovich_Lab5.Domain.csproj.CoreCompileInputs.cache
+C:\Шарпы каникулы\153501_Abramovich_Lab5\153501_Abramovich_Lab5.Domain\obj\Debug\net6.0\153501_Abramovich_Lab5.Domain.dll
+C:\Шарпы каникулы\153501_Abramovich_Lab5\153501_Abramovich_Lab5.Domain\obj\Debug\net6.0\refint\153501_Abramovich_Lab5.Domain.dll
+C:\Шарпы каникулы\153501_Abramovich_Lab5\153501_Abramovich_Lab5.Domain\obj\Debug\net6.0\153501_Abramovich_Lab5.Domain.pdb
+C:\Шарпы каникулы\153501_Abramovich_Lab5\153501_Abramovich_Lab5.Domain\obj\Debug\net6.0\ref\153501_Abramovich_Lab5.Domain.dll

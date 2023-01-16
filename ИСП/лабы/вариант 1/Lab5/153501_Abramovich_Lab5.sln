@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "153501_Abramovich_Lab5", "153501_Abramovich_Lab5\153501_Abramovich_Lab5.csproj", "{33D62FCD-1A8F-4441-90C8-727972BA1078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "153501_Abramovich_Lab5.Domain", "153501_Abramovich_Lab5.Domain\153501_Abramovich_Lab5.Domain.csproj", "{14215A6F-B060-4FFC-82ED-E08B895024CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serializer", "Serializer\Serializer.csproj", "{294B4CBB-BA32-475B-97EC-A5BFCBC35D6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33D62FCD-1A8F-4441-90C8-727972BA1078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D62FCD-1A8F-4441-90C8-727972BA1078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D62FCD-1A8F-4441-90C8-727972BA1078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D62FCD-1A8F-4441-90C8-727972BA1078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14215A6F-B060-4FFC-82ED-E08B895024CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14215A6F-B060-4FFC-82ED-E08B895024CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14215A6F-B060-4FFC-82ED-E08B895024CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14215A6F-B060-4FFC-82ED-E08B895024CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294B4CBB-BA32-475B-97EC-A5BFCBC35D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294B4CBB-BA32-475B-97EC-A5BFCBC35D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294B4CBB-BA32-475B-97EC-A5BFCBC35D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294B4CBB-BA32-475B-97EC-A5BFCBC35D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE4C1654-9B97-475C-9A95-E3E21C4ECF4D}
+	EndGlobalSection
+EndGlobal

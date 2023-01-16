@@ -1,0 +1,12 @@
+  ADDR B1 B2 B3 B4 thrass11.tmp                                     PAGE       1
+
+                                   org $8000
+
+  8000 86 AA        ldaa #$AA
+  8002 C6 55        ldab #$55
+  8004 36           psha
+  8005 37           pshb
+  8006 32           pula
+  8007 33           pulb
+  8008 8F           xgdx
+

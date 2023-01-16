@@ -1,0 +1,12 @@
+C:\Шарпы каникулы\153501_Abramovich_Lab2\Collections\obj\Debug\net6.0\Collections.csproj.AssemblyReference.cache
+C:\Шарпы каникулы\153501_Abramovich_Lab2\Collections\obj\Debug\net6.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Шарпы каникулы\153501_Abramovich_Lab2\Collections\obj\Debug\net6.0\Collections.AssemblyInfoInputs.cache
+C:\Шарпы каникулы\153501_Abramovich_Lab2\Collections\obj\Debug\net6.0\Collections.AssemblyInfo.cs
+C:\Шарпы каникулы\153501_Abramovich_Lab2\Collections\obj\Debug\net6.0\Collections.csproj.CoreCompileInputs.cache
+C:\Шарпы каникулы\153501_Abramovich_Lab2\Collections\bin\Debug\net6.0\Collections.deps.json
+C:\Шарпы каникулы\153501_Abramovich_Lab2\Collections\bin\Debug\net6.0\Collections.dll
+C:\Шарпы каникулы\153501_Abramovich_Lab2\Collections\bin\Debug\net6.0\Collections.pdb
+C:\Шарпы каникулы\153501_Abramovich_Lab2\Collections\obj\Debug\net6.0\Collections.dll
+C:\Шарпы каникулы\153501_Abramovich_Lab2\Collections\obj\Debug\net6.0\refint\Collections.dll
+C:\Шарпы каникулы\153501_Abramovich_Lab2\Collections\obj\Debug\net6.0\Collections.pdb
+C:\Шарпы каникулы\153501_Abramovich_Lab2\Collections\obj\Debug\net6.0\ref\Collections.dll
